@@ -97,7 +97,7 @@
 91D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@parcel\node-resolver-core\test\fixture\foo.js133209338421887977 0
 54D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\term-size133209338414218699 1
 95D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133209338437545661 1
-44D:\Alex\IT\GitHub\goit-js-hw-08\package.json133209343294749865 0
+44D:\Alex\IT\GitHub\goit-js-hw-08\package.json133209443351201981 0
 65D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\braces\lib\expand.js133209338413430831 0
 44D:\Alex\IT\GitHub\goit-js-hw-08\README.en.md133209335936794053 0
 64D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\escalade\index.d.ts133209338413420856 0
@@ -514,7 +514,7 @@
 51D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\parcel133209338413530564 1
 71D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\parcel-reporter-clean-dist133209338427881806 1
 92D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133209338437625449 0
-63D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\src133209343292533028 1
+63D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\src133209343293872224 1
 61D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\json5\LICENSE.md133209338416103607 0
 58D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\parent-module133209338408853196 1
 75D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1133209338406168584 1
@@ -687,7 +687,7 @@
 70D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\node-addon-api\LICENSE.md133209338419753747 0
 64D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\yaml\parse-cst.d.ts133209338427263453 0
 66D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\htmlnano\CHANGELOG.md133209338428300640 0
-67D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\.github133209343293892163 1
+67D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\.github133209343293902143 1
 62D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\yaml\parse-cst.js133209338420751042 0
 88D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\config\.parcelrc133209338414617628 0
 65D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\yaml\browser\pair.js133209338418487175 0
@@ -1516,7 +1516,7 @@
 70D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\bower.json133209343293772485 0
 97D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js133209338492878972 0
 91D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@swc\helpers\src\_skip_first_generator_next.js133209338436358868 0
-64D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo133209343269189471 1
+64D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo133209343269538517 1
 64D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\dist133209343293283795 1
 71D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\gulpfile.js133209343292533028 0
 69D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\README.md133209343293832328 0
@@ -1550,13 +1550,13 @@
 89D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@parcel\workers\src\process\ProcessWorker.js133209338422227059 0
 76D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\SM.js133209338504310145 0
 73D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\demo.css133209343269249305 0
-68D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img133209343270476019 1
+68D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img133209343293862250 1
 59D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\braces\LICENSE133209338409152386 0
 75D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\bg.jpg133209343292507875 0
 71D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@parcel\core\test\fixtures133209338438074244 1
 65D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\nan\nan_converters.h133209338411496057 0
 72D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\domutils\lib\feeds.d.ts.map133209338415196053 0
-73D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\full133209343269538517 1
+73D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\full133209343282530067 1
 78D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\mouse.svg133209343293862250 0
 99D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c133209338427851858 0
 74D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@nodelib\fs.scandir\out\types133209338419654010 1
@@ -1566,7 +1566,7 @@
 77D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\postcss-value-parser\lib\unit.js133209338410678268 0
 62D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@lezer\lr\LICENSE133209338406346960 0
 84D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\mpeg-dash.js133209338501297432 0
-74D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb133209343270476019 1
+74D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb133209343290873317 1
 81D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb\02.jpg133209343273164193 0
 81D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\simplelightbox\demo\img\thumb\03.jpg133209343277172334 0
 88D:\Alex\IT\GitHub\goit-js-hw-08\node_modules\@parcel\utils\test\input\config\config.json133209338428450245 0
